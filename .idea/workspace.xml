@@ -43,20 +43,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="105">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/NavigationHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -64,25 +55,82 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="1605">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1193#1194#0" expanded="true" />
-                <element signature="e#1253#1254#0" expanded="true" />
-                <element signature="e#1288#1289#0" expanded="true" />
-                <element signature="e#1348#1349#0" expanded="true" />
                 <element signature="e#1374#1375#0" expanded="true" />
                 <element signature="e#1398#1399#0" expanded="true" />
                 <element signature="e#1810#1811#0" expanded="true" />
                 <element signature="e#1873#1874#0" expanded="true" />
                 <element signature="e#1916#1917#0" expanded="true" />
                 <element signature="e#1972#1973#0" expanded="true" />
-                <element signature="e#3854#3855#0" expanded="true" />
-                <element signature="e#3915#3916#0" expanded="true" />
-                <element signature="e#3939#3940#0" expanded="true" />
-                <element signature="e#3968#3969#0" expanded="true" />
+                <element signature="e#4181#4182#0" expanded="true" />
+                <element signature="e#4215#4216#0" expanded="true" />
+                <element signature="e#4271#4272#0" expanded="true" />
+                <element signature="e#4309#4310#0" expanded="true" />
+                <element signature="e#3722#3723#0" expanded="true" />
+                <element signature="e#3757#3758#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/NavigationHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/ContactCreationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupCreationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupDeletionTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -120,10 +168,15 @@
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/GroupCreationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/ApplicationManager.java" />
-        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupDeletionTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/NavigationHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/NavigationHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/SessionHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/ContactCreationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupDeletionTests.java" />
       </list>
     </option>
   </component>
@@ -270,26 +323,6 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ContactCreationTest.testContactCreation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;addressbook_web_tests.tests.ContactCreationTest.testContactCreation&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="GroupCreationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -310,32 +343,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="GroupCreationTest.testGroupCreation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;addressbook_web_tests.GroupCreationTest.testGroupCreation&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="GroupDeletionTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;addressbook_web_tests.GroupDeletionTests&quot;" />
+        <option name="scriptParameters" value="--tests &quot;addressbook_web_tests.tests.GroupDeletionTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -371,8 +384,7 @@
       <list>
         <item itemvalue="Gradle.GroupCreationTest" />
         <item itemvalue="Gradle.ContactCreationTest" />
-        <item itemvalue="Gradle.ContactCreationTest.testContactCreation" />
-        <item itemvalue="Gradle.GroupCreationTest" />
+        <item itemvalue="Gradle.GroupDeletionTests" />
         <item itemvalue="Gradle.GroupDeletionTests" />
       </list>
     </recent_temporary>
@@ -391,27 +403,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationTest - 2019.07.02 at 17h 37m 32s.xml">
-      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GroupCreationTest - 2019.07.02 at 18h 20m 42s.xml">
-      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ContactCreationTest_testContactCreation - 2019.07.02 at 18h 36m 28s.xml">
-      <configuration name="ContactCreationTest.testContactCreation" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ContactCreationTest - 2019.07.02 at 18h 44m 10s.xml">
-      <configuration name="ContactCreationTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ContactCreationTest - 2019.07.02 at 19h 19m 41s.xml">
-      <configuration name="ContactCreationTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ContactCreationTest - 2019.07.02 at 19h 29m 29s.xml">
-      <configuration name="ContactCreationTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="GroupCreationTest - 2019.07.02 at 19h 29m 53s.xml">
-      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="GroupCreationTest - 2019.07.02 at 19h 29m 54s.xml">
       <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -421,12 +412,32 @@
     <history-entry file="GroupCreationTest - 2019.07.02 at 19h 32m 49s.xml">
       <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="GroupCreationTest - 2019.07.02 at 19h 38m 45s.xml">
+      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupCreationTest - 2019.07.02 at 19h 38m 53s.xml">
+      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupCreationTest - 2019.07.02 at 19h 39m 28s.xml">
+      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupCreationTest - 2019.07.02 at 19h 58m 13s.xml">
+      <configuration name="GroupCreationTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContactCreationTest - 2019.07.02 at 19h 58m 39s.xml">
+      <configuration name="ContactCreationTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupDeletionTests - 2019.07.02 at 19h 58m 51s.xml">
+      <configuration name="GroupDeletionTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="GroupDeletionTests - 2019.07.02 at 19h 59m 18s.xml">
+      <configuration name="GroupDeletionTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="86" width="932" height="723" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39775282" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2673716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,7 +446,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2836767" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.256447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,72 +549,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupDeletionTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/NavigationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/ContactCreationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/NavigationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupCreationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1193#1194#0" expanded="true" />
-            <element signature="e#1253#1254#0" expanded="true" />
-            <element signature="e#1288#1289#0" expanded="true" />
-            <element signature="e#1348#1349#0" expanded="true" />
-            <element signature="e#1374#1375#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1810#1811#0" expanded="true" />
-            <element signature="e#1873#1874#0" expanded="true" />
-            <element signature="e#1916#1917#0" expanded="true" />
-            <element signature="e#1972#1973#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#3915#3916#0" expanded="true" />
-            <element signature="e#3939#3940#0" expanded="true" />
-            <element signature="e#3968#3969#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/NavigationHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        <state relative-caret-position="1605">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1398#1399#0" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#4181#4182#0" expanded="true" />
+            <element signature="e#4215#4216#0" expanded="true" />
+            <element signature="e#4271#4272#0" expanded="true" />
+            <element signature="e#4309#4310#0" expanded="true" />
+            <element signature="e#3722#3723#0" expanded="true" />
+            <element signature="e#3757#3758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/ContactCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/GroupDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

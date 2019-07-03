@@ -70,6 +70,39 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/HelperBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -104,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/NavigationHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/NavigationHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/SessionHelper.java" />
@@ -113,6 +145,8 @@
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/ContactHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/tests/ContactCreationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/HelperBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java" />
       </list>
     </option>
   </component>
@@ -247,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ContactCreationTest">
+  <component name="RunManager" selected="Gradle.GroupCreationTest">
     <configuration name="ContactCreationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -327,9 +361,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GroupCreationTest" />
         <item itemvalue="Gradle.ContactCreationTest" />
         <item itemvalue="Gradle.GroupDeletionTests" />
-        <item itemvalue="Gradle.GroupCreationTest" />
         <item itemvalue="Gradle.GroupDeletionTests" />
       </list>
     </recent_temporary>
@@ -348,9 +382,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupDeletionTests - 2019.07.02 at 19h 59m 18s.xml">
-      <configuration name="GroupDeletionTests" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="GroupDeletionTests - 2019.07.02 at 19h 59m 38s.xml">
       <configuration name="GroupDeletionTests" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -376,6 +407,9 @@
       <configuration name="GroupDeletionTests" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="ContactCreationTest - 2019.07.03 at 10h 41m 10s.xml">
+      <configuration name="ContactCreationTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ContactCreationTest - 2019.07.03 at 10h 42m 02s.xml">
       <configuration name="ContactCreationTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
@@ -529,16 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/SessionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -580,6 +604,35 @@
             <element signature="e#3757#3758#0" expanded="true" />
             <element signature="e#3893#3894#0" expanded="true" />
             <element signature="e#3929#3930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/addressbook_web_tests/appmanager/GroupHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="addressbook_web_tests.tests.GroupCreationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-03T07:59:10" hostname="MacBook-Air.local" time="9.265">
+  <properties/>
+  <testcase name="testGroupCreation" classname="addressbook_web_tests.tests.GroupCreationTest" time="9.265"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1562140751842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/2pzsp50n6q58wx9vcx3w9rr40000gn/T/rust_mozprofile.MVkmkV9UBISy"
+1562140753345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562140753345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562140753345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562140756149	Marionette	INFO	Listening on port 59054
+Jul 03, 2019 10:59:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1562140759100	Marionette	INFO	Stopped listening on port 59054
+]]></system-err>
+</testsuite>
